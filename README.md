@@ -30,6 +30,8 @@ This JS web app can be easily configured or used as a boilerplate/starting point
 * Table of contents
 
 ## Change log:
+* 3/14/2104
+	1. Forked by RBJ
 * 12/6/2014
 	1. Updated UX a bit.
 	2. Added TOC widget from [agsjs](http://gmaps-utility-gis.googlecode.com/svn/tags/agsjs/latest/docs/toc/reference.html).
